@@ -1,5 +1,5 @@
 {
-  "name": "budget-app",
+  "name": "blocked-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,16 +17,16 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"enable: no test specified\" &&  1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Donard97/budget-app.git"
+    "url": "git+https://github.com/Donard97/blocked-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Donard97/budget-app/issues"
+    "url": "https://github.com/Donard97/blocked-app/issues"
   },
-  "homepage": "https://github.com/Donard97/budget-app#readme"
+  "homepage": "https://github.com/Donard97/blocked-app#readme"
 }
